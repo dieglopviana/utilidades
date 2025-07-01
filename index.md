@@ -1,9 +1,11 @@
-# Meu Primeiro Artigo no GitHub Pages
+# Bem-vindo ao meu blog no GitHub Pages 🚀
 
-Esse é um teste de publicação de conteúdo com o GitHub Pages sem usar domínio próprio.
+Este é meu primeiro artigo escrito diretamente no GitHub!
 
-## Introdução
+## ✅ O que posso escrever aqui?
 
-Você pode escrever textos, tutoriais, ou até um blog aqui.
+- Tutoriais técnicos
+- Documentação de projetos
+- Notas pessoais
 
-## Fim
+## 📅 Última atualização
