@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Estilo personalizado para blocos de código */
+pre, code {
+  background-color: #1e1e1e !important;
+  color: #f8f8f2;
+  padding: 0.75em;
+  border-radius: 8px;
+  overflow-x: auto;
+  font-family: monospace;
+}
