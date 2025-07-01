@@ -1,6 +1,6 @@
 # Bem-vindo ao meu blog no GitHub Pages 🚀
 
-Este é meu primeiro artigo escrito diretamente no GitHub!
+Este é meu repositório para escrever artigos que eu acho serem úteis e que posso consultar a qualquer momento!
 
 ## ✅ O que posso escrever aqui?
 
