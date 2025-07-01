@@ -9,4 +9,4 @@ Este é meu primeiro artigo escrito diretamente no GitHub!
 - Notas pessoais
 
 ## Artigos Úteis
-[How to Resize Disk of a VM Instance in Google Cloud](resize_disk_google_cloud.md)
+[How to Resize Disk of a VM Instance in Google Cloud](resize_disk_google_cloud)
