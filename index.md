@@ -10,3 +10,4 @@ Este é meu repositório para escrever artigos que eu acho serem úteis e que po
 
 ## Artigos Úteis
 [How to Resize Disk of a VM Instance in Google Cloud](posts/resize_disk_google_cloud)
+[Monitoramento de transferências FTP](posts/monitoramento_ftp)
