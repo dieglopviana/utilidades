@@ -13,4 +13,4 @@ Este é meu repositório para escrever artigos que eu acho serem úteis e que po
 
 [Monitoramento de transferências FTP](posts/monitoramento_ftp)
 
-[Guia de comandos do VIM](posts/Guia de Consulta do Vim)
+[Guia de comandos do VIM](posts/Guia%20de%20Consulta%20do%20Vim)
